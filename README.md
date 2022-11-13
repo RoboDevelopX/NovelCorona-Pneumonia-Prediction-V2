@@ -5,7 +5,6 @@ Predicting Noval Corona, Pneumonia, Healthy from X-ray scans using Keras and Sci
 In this project, I am using X-ray images to analyze the health of the patient lungs since COVID-19 attacks the epithelial cells (cells that come from surfaces of the respiratory tract) and X-ray scans are easy to get than CT scans. <br>
 The COVID-19  virus spreads by droplets produced as a result of coughing or sneezing of a COVID-19 infected person. This could happen either by direct close contact with an infected person or by indirect contact like the droplets on surfaces and clothes.<br>
 
-**_Note:_ I have made `Training_multiple_models.ipynb` private to avoid misuse, contact me @v.snehith999@gmail.com for complete directory ☺**<br>
 
 ### 🌀 Application Interface 
 ![Output](https://github.com/snehitvaddi/NovelCorona-Pneumonia-Prediction_V2/blob/master/dataset/streamlit-output.jpeg)
@@ -45,13 +44,6 @@ _**Note:** This is an year old dataset that I have managed to collect. Rightnow 
 * Updating datasets as per the avilability. 
 * Version-2 dataset is collected during the July month-end. I will keep updating dataset as more and more data gets open-sourced.
 NOTE: If anybody got better metrics than me, please do share your knowledge after all Knowledge is Sharing!!
-
-### ⚠ Disclaimer
-<i>This blog post on COVID-19 prediction is a proof-of-concept and for educational purposes only. It is not meant to replace professional medical advice.</i>
-
-### ✍ Author:
-<b>Linkedin</b>: https://www.linkedin.com/in/snehitvaddi/ <br>
-<b>Github</b>: https://github.com/snehitvaddi
 
 ### 📑 References: 
 https://towardsdatascience.com/using-deep-learning-to-detect-ncov-19-from-x-ray-images-1a89701d1acd
